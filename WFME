@@ -1,0 +1,2 @@
+_G.KeyCode = "X"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DanialSugma/Walk-Fling/main/Walk%20Fling"))()
